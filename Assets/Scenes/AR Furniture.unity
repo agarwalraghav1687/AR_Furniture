@@ -394,7 +394,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 804193588}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.42826793
+  m_Size: 0.41162887
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1054,6 +1054,7 @@ GameObject:
   - component: {fileID: 1463142428}
   - component: {fileID: 1463142427}
   - component: {fileID: 1463142431}
+  - component: {fileID: 1463142432}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: Untagged
@@ -1204,6 +1205,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_ARSessionOrigin: {fileID: 1267583154}
+--- !u!65 &1463142432
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463142425}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1613532161
 GameObject:
   m_ObjectHideFlags: 0
