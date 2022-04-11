@@ -24,6 +24,41 @@ ARCore <li>
 ARFoundation <li>
 Unity
  
- # Few Screenshots of the application
- 
+<br>
+
+# Few Screenshots of the application
+
+Plane Tracking:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.06 PM.png" width = "20%">  
+
+<br>
+
+Object Placement:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.12 PM.png" width = "20%">
+
+<br>
+
+Selcting the Placed Object:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.22 PM.png" width = "20%">
+
+<br>
+
+Moving the Placed Object:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.27 PM.png" width = "20%">
+
+<br>
+
+Rotating the Placed Object:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.40 PM.png" width = "20%">
+
+<br>
+
+Final Changes after Placing and Rotating:
+
+<img src = "Images/Screen Shot 2022-04-11 at 4.07.45 PM.png" width = "20%"> 
  
